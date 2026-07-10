@@ -15,7 +15,7 @@ MY CFO is an offline-first personal finance management application designed to h
 
 Features
 
-Dashboard
+##Dashboard
           Total Balance
           Monthly Income
           Monthly Expenses
@@ -25,7 +25,7 @@ Dashboard
           Recent Transactions
           multi wallets
           Financial Health Summary
- Authentication
+ ##Authentication
           First-time setup
           User name 
           PIN Lock ( password  entered the first time will remain the password)
@@ -34,17 +34,17 @@ Dashboard
           Local data storage
           Fast performance
           Privacy-focused
-Reports & Analytics
+##Reports & Analytics
           Income vs Expense Report
           Monthly Report
           Category-wise Spending(food , fuel and other)
           Savings Progress
           Financial Summary 
-Backup & Restore
+##Backup & Restore
           Export Backup data
           Import Backup data
           transaction slip in pdf format
-Tech Stack
+##Tech Stack
    Frontend
       HTML5
       CSS3
@@ -53,7 +53,7 @@ Tech Stack
       None (Offline Application)
       Database
       Local Storage(like mobile phone storage,laptop's storage)
-📂 Project Structure
+##📂 Project Structure
 MY-CFO/
 │
 ├── index.html          # Main Application
