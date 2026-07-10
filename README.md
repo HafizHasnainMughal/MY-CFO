@@ -6,7 +6,7 @@ MY-CFO is an **offline-first (bina internet ke pehle se design ki gayi)** person
 
 ---
 
-# 📖 About the Project
+#  About the Project
 
 ## Problem Statement
 
@@ -22,7 +22,7 @@ Most existing finance applications require an internet connection, store user da
 
 ---
 
-# 🎯 Project Purpose
+#  Project Purpose :
 
 The primary goal of **MY-CFO** is to provide a simple, secure, and completely offline personal finance management system.
 
@@ -37,9 +37,9 @@ The application allows users to:
 
 ---
 
-# ✨ Features
+#  Features :
 
-## 📊 Dashboard
+## Dashboard :
 
 * Total Balance
 * Monthly Income
@@ -53,7 +53,7 @@ The application allows users to:
 
 ---
 
-## 🔐 Authentication
+##  Authentication : 
 
 * First-time Setup
 * Username Creation
@@ -64,7 +64,7 @@ The application allows users to:
 
 ---
 
-## 📴 Offline Support
+##  Offline Support :
 
 * No Internet Required
 * Local Device Storage
@@ -73,7 +73,7 @@ The application allows users to:
 
 ---
 
-## 📈 Reports & Analytics
+##  Reports & Analytics :
 
 * Income vs Expense Report
 * Monthly Financial Report
@@ -87,7 +87,7 @@ The application allows users to:
 
 ---
 
-## 💾 Backup & Restore
+##  Backup & Restore :
 
 * Export Backup Data
 * Import Backup Data
@@ -95,19 +95,19 @@ The application allows users to:
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack :
 
-## Frontend
+## Frontend :
 
 * HTML5
 * CSS3
 * JavaScript (ES6)
 
-## Backend
+## Backend :
 
 * None (Fully Offline Application)
 
-## Database
+## Database :
 
 * Local Storage
 * Browser Storage
@@ -115,7 +115,7 @@ The application allows users to:
 
 ---
 
-# 📁 Project Structure
+#  Project Structure :
 
 ```text
 MY-CFO/
@@ -128,7 +128,7 @@ MY-CFO/
 
 ---
 
-# 🔒 Privacy
+#  Privacy :
 
 MY-CFO is designed with **privacy-first** principles.
 
@@ -138,6 +138,6 @@ MY-CFO is designed with **privacy-first** principles.
 * No third-party data collection
 ---
 
-# 📄 License
+# 📄 License :
 
 This project is developed for learning, academic, and personal finance management purposes.
