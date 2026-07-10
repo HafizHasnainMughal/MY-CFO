@@ -2,7 +2,7 @@
 
 > **Smart Offline Personal Finance Manager**
 
-MY-CFO is an **offline-first (bina internet ke pehle se design ki gayi)** personal finance management application that helps users manage their daily finances securely. The application stores all data locally on the user's device, ensuring complete privacy, fast performance, and offline accessibility.
+MY-CFO is an offline personal finance management application that helps users manage their daily finances securely. The application stores all data locally on the user's device, ensuring complete privacy, fast performance, and offline accessibility.
 
 ---
 
