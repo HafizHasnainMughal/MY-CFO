@@ -17,6 +17,7 @@ Managing personal finances manually is difficult. Many people struggle to keep t
 * Savings
 * Budgets
 * Financial Goals
+* investment
 
 Most existing finance applications require an internet connection, store user data on cloud servers, or provide complex interfaces that are difficult for everyday users.
 
