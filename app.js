@@ -2219,7 +2219,7 @@ window.handleJSONDataImport = function (event) {
 
             // Validation check to make sure it's valid financial data structure
             if (parsedData && typeof parsedData === 'object') {
-                
+
                 // Securely transition state values into memory
                 financialData.user = parsedData.user !== undefined ? parsedData.user : financialData.user;
                 financialData.userAge = parsedData.userAge !== undefined ? parsedData.userAge : financialData.userAge;
@@ -2230,7 +2230,7 @@ window.handleJSONDataImport = function (event) {
                 financialData.expenseWarningLimit = parsedData.expenseWarningLimit !== undefined ? parsedData.expenseWarningLimit : financialData.expenseWarningLimit;
                 financialData.customSavingsOverride = parsedData.customSavingsOverride !== undefined ? parsedData.customSavingsOverride : financialData.customSavingsOverride;
                 financialData.income = parsedData.income !== undefined ? parsedData.income : financialData.income;
-                
+
                 // Array structural recoveries
                 financialData.transactions = Array.isArray(parsedData.transactions) ? parsedData.transactions : [];
                 financialData.goals = Array.isArray(parsedData.goals) ? parsedData.goals : [];
@@ -2476,7 +2476,7 @@ window.generateProfessionalPDFReceipt = function () {
     } else {
         transactionsList.slice().reverse().forEach((tx) => {
             checkPageOverflow(7);
-            
+
             // Clean isolated metric parameters for precise horizontal alignment
             const formattedDateTime = `${tx.date || ''}  ${tx.time || ''}`;
             doc.text(formattedDateTime, 15, y);
